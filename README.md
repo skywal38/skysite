@@ -1,2 +1,2 @@
 # skysite
-Just some HTM files i like making, Use them if you want!
+Just some HTML files i like making, Use them if you want!
